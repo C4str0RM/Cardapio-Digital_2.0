@@ -26,9 +26,12 @@ Essa versão aprimorada permite que agora a empresária possa editar os produtos
 -----------------------------------------------------------------------------------------------------------------------------------------
 ## 👩‍💻 Sobre o projeto
 
-Este projeto nasceu como parte de um projeto de extensão acadêmico, com o objetivo de criar uma solução simples para divulgar os produtos de uma microempreendedora local. 
+Este projeto nasceu como parte de um projeto de extensão acadêmico, com o objetivo de criar uma solução simples para divulgar os produtos de uma microempreendedora local.
+
 A primeira versão era uma página estática, desenvolvida para atender à entrega da faculdade e já ajudava bastante na divulgação. 
+
 Porém, com o tempo, surgiu a necessidade de tornar o sistema mais dinâmico e independente — por isso, esta **versão 2.0** foi criada com *painel administrativo*, *banco de dados* e *autenticação*, permitindo que a própria empresária gerencie seus produtos com facilidade.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
+
 Desenvolvido por **Raycka 💻**
