@@ -34,4 +34,4 @@ Porém, com o tempo, surgiu a necessidade de tornar o sistema mais dinâmico e i
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
-Desenvolvido por **Raycka 💻**
+> Desenvolvido por **Raycka 💻**
